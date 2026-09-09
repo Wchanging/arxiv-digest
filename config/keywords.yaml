@@ -9,6 +9,9 @@ categories:
   # - cs.IR
 
 keywords:
+  - auto research
+  - multi-agent collaboration
+  - multi-agent debate
   - agentic rl
   - reasoning
   - Post-training
@@ -18,8 +21,8 @@ keywords:
   - self-evolution
   - self-improvement
   - recursive self-improvement
-  - self-refinement
   - autonomous improvement
+
 
 # 打分阈值：只推送分数 >= threshold 的论文（0-1，推荐 0.75）
 threshold: 0.75
