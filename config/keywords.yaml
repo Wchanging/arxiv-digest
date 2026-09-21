@@ -9,14 +9,15 @@ categories:
   # - cs.IR
 
 keywords:
+  - recursive self-improvement
+  - self-evolving
+  - self-improvement
+  - agent harness optimization
   - agentic rl
   - reasoning
   - Post-training
   - on-policy distillation
-  - self-improvement
-  - self-evolving
   - multi-agent debate
-  - agent harness optimization
   - automatic agent optimization
   - self-improving agent harness
   - budget-aware agent optimization
